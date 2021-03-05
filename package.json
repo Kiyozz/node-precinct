@@ -1,6 +1,6 @@
 {
-  "name": "precinct",
-  "version": "7.1.0",
+  "name": "precinct-80",
+  "version": "8.0.0",
   "description": "Unleash the detectives",
   "main": "index.js",
   "scripts": {
@@ -43,7 +43,7 @@
     "detective-sass": "^3.0.1",
     "detective-scss": "^2.0.1",
     "detective-stylus": "^1.0.0",
-    "detective-typescript": "^6.0.0",
+    "detective-typescript-70": "^7.0.0",
     "module-definition": "^3.3.1",
     "node-source-walk": "^4.2.0"
   },

@@ -10,7 +10,7 @@ var detectivePostcss = require('detective-postcss');
 var detectiveSass = require('detective-sass');
 var detectiveScss = require('detective-scss');
 var detectiveStylus = require('detective-stylus');
-var detectiveTypeScript = require('detective-typescript');
+var detectiveTypeScript = require('detective-typescript-70');
 
 var fs = require('fs');
 var path = require('path');
